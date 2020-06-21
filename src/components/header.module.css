@@ -1,0 +1,17 @@
+.titlebar {
+  align-items: baseline;
+  background-color: wheat;
+  display: flex;
+}
+
+.homelogo {
+  margin: 1rem;
+}
+
+.link {
+  background-image: none;
+  color: peru;
+  margin: 1rem;
+  text-decoration: none;
+  text-shadow: none;
+}
